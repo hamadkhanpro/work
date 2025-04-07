@@ -230,7 +230,6 @@ section.freelancer{
     text-align: center;
     background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/camera.png);
     color:var(--pure);
-    clip-path:polygon(0 0, 100% 0, 100% 100%, 67% 80%, 0 100%);
     padding-bottom:14rem;
 }
 section.freelancer h1{
@@ -346,7 +345,6 @@ section.work .card-wrapper .card img{
 
 section.blog{
     background:var(--dark);
-    clip-path:polygon(0 0, 100% 0, 100% 100%, 67% 90%, 0 100%);
     padding-bottom:12rem;
 }
 section.blog .section-heading{
@@ -554,7 +552,6 @@ footer .copyright{
         padding-top:10rem;
     }
     header{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 27% 89%, 0 100%);
     }
     section.about .about-me-img{
         height: 360px;
@@ -569,7 +566,6 @@ footer .copyright{
         grid-template-columns: repeat(1, 1fr);
     }
     section.blog{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 67% 97%, 0 100%);
     }
 }
 
@@ -578,7 +574,6 @@ footer .copyright{
         flex-direction: column;
     }
     header{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 69% 95%, 0 100%);
     }
     .hero .right{
         position: absolute;
@@ -612,7 +607,6 @@ footer .copyright{
         line-height:1.2;
     }
     section.freelancer{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 67% 90%, 0 100%);
         padding-bottom: 8rem;
     }
     section.reviews .slider .slide{
